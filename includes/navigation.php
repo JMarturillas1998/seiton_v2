@@ -63,7 +63,7 @@
 
 				<li class="item">
 
-					<a href="dashboard.php" class="menu-btn"> <i class="fas fa-home"></i><span>Home</span></a>
+					<a href="index.php" class="menu-btn"> <i class="fas fa-home"></i><span>Home</span></a>
 				</li>
 
 				<li class="item" id="t-management">
